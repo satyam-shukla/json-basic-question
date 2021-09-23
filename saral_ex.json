@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "id": "3483",
+            "parent_exercise_id": null,
+            "name": "e and i",
+            "slug": "top-row-tg__keys_e_i",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_e_i.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3484",
+            "parent_exercise_id": null,
+            "name": "r and u",
+            "slug": "top-row-tg__keys_r_u",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_r_u.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3485",
+            "parent_exercise_id": null,
+            "name": "t and y",
+            "slug": "top-row-tg__keys_t_y",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_t_y.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3486",
+            "parent_exercise_id": null,
+            "name": "w and o",
+            "slug": "top-row-tg__keys_w_o",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_w_o.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3487",
+            "parent_exercise_id": null,
+            "name": "q and p",
+            "slug": "top-row-tg__keys_q_p",
+            "sequence_num": 400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_q_p.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3488",
+            "parent_exercise_id": null,
+            "name": "q, e, i, p",
+            "slug": "top-row-tg__keys_q_e_i_p",
+            "sequence_num": 500,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_q_e_i_p.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3489",
+            "parent_exercise_id": null,
+            "name": "q, e, p",
+            "slug": "top-row-tg__keys_q_e_p",
+            "sequence_num": 600,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_q_e_p.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3490",
+            "parent_exercise_id": null,
+            "name": "w, space bar, o",
+            "slug": "top-row-tg__keys_w_o_spacebar",
+            "sequence_num": 700,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_w_o_spacebar.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3491",
+            "parent_exercise_id": null,
+            "name": "w, r, o",
+            "slug": "top-row-tg__keys_w_r_o",
+            "sequence_num": 800,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_w_r_o.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3492",
+            "parent_exercise_id": null,
+            "name": "w, r, y, o",
+            "slug": "top-row-tg__keys_w_r_y_o",
+            "sequence_num": 900,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/top-row-tg/keys_w_r_y_o.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
